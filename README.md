@@ -1,7 +1,7 @@
 ## GG there 👋
 
-<!--
-**glowperson/glowperson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+**glowperson/glowperson** is a ✨ _special_ ✨ repository
 
 Here are some ideas to get you started:
 
